@@ -24,5 +24,6 @@ Done! Your fork is now synced with upstream. You are now ready to [create a new 
 
 ## Topic navigation
 
+*	Next topic: [5. Working with images](5-work-with-images.md)
 *	This topic: **4. Sync fork from original**
 *	Previous topic: [3. Open a pull request](3-open-pull-request.md)
