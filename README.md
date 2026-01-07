@@ -17,7 +17,7 @@ The goal of this project is to help those in non-technical (or not *primarily* t
 3. [Opening a pull request to the original project](docs/3-open-pull-request.md)
 4. [Syncing your fork once the PR is accepted](docs/4-sync-from-original.md)
 5. [Working with media](docs/5-working-with-media.md)
-6. Resolving merge conflicts
+6. [Resolving merge conflicts](docs/6-resolve-merge-conflicts.md)
 
 ### GitHub-only workflow
 
