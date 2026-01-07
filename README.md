@@ -6,7 +6,7 @@
 
 The goal of this project is to help those in non-technical (or not *primarily* technical) roles, such as designers, understand and practice the basics of using Git through collaborative editing of documentation. This repo contains text files and associated media, rather than code.
 
-## 🚙 Main topics
+## 🚗 Main topics
 
 1. [Forking and branching](docs/1-fork-and-branch.md)
 	- Fork an existing repo
@@ -16,6 +16,8 @@ The goal of this project is to help those in non-technical (or not *primarily* t
 	- Make changes using the online code editor
 3. [Opening a pull request to the original project](docs/3-open-pull-request.md)
 4. [Syncing your fork once the PR is accepted](docs/4-sync-from-original.md)
+5. [Working with media](docs/5-working-with-media.md)
+6. Resolving merge conflicts
 
 ### GitHub-only workflow
 
@@ -63,11 +65,6 @@ flowchart LR
         PR -.->|merges Working branch| O_MAIN
     end
 ```
-
-## 🚗 Intermediate topics
-
-5. Working with images
-6. Resolving merge conflicts
 
 ## 🏎️ Advanced topics
 
