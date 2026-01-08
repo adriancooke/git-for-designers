@@ -58,4 +58,4 @@ Complex conflicts are editing files that have been renamed/deleted, changing fil
 ## Topic navigation
 
 *	This topic: **6. Resolving merge conflicts**
-*	Previous topic: [5. Working with images](5-work-with-images.md)
+*	Previous topic: [5. Working with media](5-working-with-media.md)
