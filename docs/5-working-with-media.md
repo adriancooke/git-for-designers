@@ -28,7 +28,7 @@ The two dots in the file path in parentheses means go back/up one level in the f
 
 Which produces:
 
-![Diagram illustrating the process of forking a repository with remote changes, highlighting steps for syncing updates from the original repository to a user's fork.](../media/forking-with-remote-changes.png)
+![Diagram illustrating the process of forking a repository with remote changes, highlighting steps for syncing updates from the original repository to a user's fork.](../media/forking-with-remote-changes-wide.png)
 
 ## Other ways to add media
 
