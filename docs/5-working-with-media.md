@@ -36,5 +36,6 @@ Which produces:
 
 ## Topic navigation
 
+*	Next topic: [6. Resolving merge conflicts](6-resolve-merge-conflicts.md)
 *	This topic: **5. Working with media**
 *	Previous topic: [4. Sync fork from original](4-sync-from-original.md)
