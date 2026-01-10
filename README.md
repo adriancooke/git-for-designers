@@ -15,9 +15,13 @@ The goal of this project is to help those in non-technical (or not *primarily* t
 	- Make changes using the basic editor
 	- Make changes using the online code editor
 3. [Opening a pull request to the original project](docs/3-open-pull-request.md)
+	- What is a pull request?
+	- How to open a PR
 4. [Syncing your fork once the PR is accepted](docs/4-sync-from-original.md)
 5. [Working with media](docs/5-working-with-media.md)
 6. [Resolving merge conflicts](docs/6-resolve-merge-conflicts.md)
+	- Why merge conflicts occur
+	- Resolving simple conflicts
 
 ### GitHub-only workflow
 
